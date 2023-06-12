@@ -126,7 +126,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ishadubey30/ishadubey30/output/snake.svg" alt="Snake animation" />
+![snake gif](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 
 ###
 
