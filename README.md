@@ -19,28 +19,18 @@
 </div>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishadubey30&label=Profile%20views&color=0e75b6&style=flat" alt="ishadubey30" /> </p>
 
-<h1 align="center">Hello! 👾 I'm Isha Dubey</h1>
+- 🌱 I’m currently learning **Solidity , next.js and MERN-stack development**
 
-###
+- 💬 Ask me about **javascript , Tailwind CSS**
 
-<h4 align="center">A Clumsy Front-End Developer</h4>
+- 📫 Reach me at **ishadubey36@gmail.com**
 
-###
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qoUMj0yS50m58YYxEpANAkGavC3Jv-pQ/view?usp=sharing](https://drive.google.com/file/d/1qoUMj0yS50m58YYxEpANAkGavC3Jv-pQ/view?usp=sharing)
 
-<br clear="both">
+- ⚡ Fun fact **I think I am the lamest in group of Five.**
 
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/3c/cc/37/3ccc375705e9251b60294a2dbd507d62.gif"  />
-
-###
-
-<h4 align="left">I'm a MERN Stack Developer from India.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</h4>
 
 ###
 
@@ -139,7 +129,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ishadubey30/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ishadubey30.ishadubey30&left_text=Number of people visted my profile"  />
 </div>
-
-###
