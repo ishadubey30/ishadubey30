@@ -24,23 +24,23 @@
 
 ###
 
-<h6 align="center">A Clumsy Front-End Developer</h6>
+<h4 align="center">A Clumsy Front-End Developer</h4>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/3c/cc/37/3ccc375705e9251b60294a2dbd507d62.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/3c/cc/37/3ccc375705e9251b60294a2dbd507d62.gif"  />
 
 ###
 
-<p align="left">I'm a MERN Stack Developer from India.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h4 align="left">I'm a MERN Stack Developer from India.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</h4>
 
 ###
 
