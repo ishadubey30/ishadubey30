@@ -127,7 +127,7 @@
 ###
 
 
-<img src="(https://raw.githubusercontent.com/ishadubey30/ishadubey30/output/snake.svg)" alt="Snake animation" />
+<img src="(https://github.com/ishadubey30/ishadubey30/blob/output/github-contribution-grid-snake.svg)" />
 
 ###
 
