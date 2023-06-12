@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/564x/17/cd/83/17cd83ae049294a5089593d929ed87cb.jpg)]
+![MasterHead](https://i.pinimg.com/564x/17/cd/83/17cd83ae049294a5089593d929ed87cb.jpg)
 <h1 align="center">Helloo!👾 I'm Isha dubey</h1>
 <h3 align="center">An enthusiastic frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Faleyaktas&psig=AOvVaw2-P34X-5t3Upi1IL2TwQsD&ust=1686684528960000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDzzdC7vv8CFQAAAAAdAAAAABAh">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 
 
 
@@ -32,6 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishadubey30&show_icons=true&locale=en" alt="ishadubey30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishadubey30&" alt="ishadubey30" /></p>
+
 
 
 <!---
