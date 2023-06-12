@@ -1,13 +1,11 @@
 [![MasterHead](https://i.pinimg.com/564x/17/cd/83/17cd83ae049294a5089593d929ed87cb.jpg)]
-<h1 align="center">Hi 👋, I'm Isha dubey</h1>
+<h1 align="center">Helloo!👾 I'm Isha dubey</h1>
 <h3 align="center">An enthusiastic frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Faleyaktas&psig=AOvVaw2-P34X-5t3Upi1IL2TwQsD&ust=1686684528960000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDzzdC7vv8CFQAAAAAdAAAAABAh">
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishadubey30&label=Profile%20views&color=0e75b6&style=flat" alt="ishadubey30" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishadubey30" alt="ishadubey30" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ishaacodes" target="blank"><img src="https://img.shields.io/twitter/follow/ishaacodes?logo=twitter&style=for-the-badge" alt="ishaacodes" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity , next.js and MERN-stack development**
 
