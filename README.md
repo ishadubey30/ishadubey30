@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/3c/cc/37/3ccc375705e9251b60294a2dbd507d62.gif"  />
+<img align="right" height="300" src="https://i.pinimg.com/originals/3c/cc/37/3ccc375705e9251b60294a2dbd507d62.gif"  />
 
 ###
 
@@ -44,9 +44,13 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -115,6 +119,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🔥   My Stats :</h3>
 
