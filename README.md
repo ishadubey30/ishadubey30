@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **ishadubey36@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qoUMj0yS50m58YYxEpANAkGavC3Jv-pQ/view?usp=sharing](https://drive.google.com/file/d/1qoUMj0yS50m58YYxEpANAkGavC3Jv-pQ/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/cIKP7](https://shorturl.at/cIKP7)
 
 - ⚡ Fun fact **I think I am the lamest in group of Five.**
 
