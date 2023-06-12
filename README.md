@@ -18,6 +18,7 @@
   </a>
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishadubey30&label=Profile%20views&color=0e75b6&style=flat" alt="ishadubey30" /> </p>
 
@@ -131,3 +132,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ishadubey30.ishadubey30&left_text=Number of people visted my profile"  />
 </div>
+
+###
