@@ -126,12 +126,9 @@
 
 ###
 
-![snake gif](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
+
+<img src="https://raw.githubusercontent.com/ishadubey30/ishadubey30/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ishadubey30.ishadubey30&left_text=Number of people visted my profile"  />
-</div>
 
-###
