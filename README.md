@@ -126,8 +126,8 @@
 
 ###
 
+![Snake animation](https://github.com/{{ishadubey30}}/{{ishadubey30}}/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github.com/ishadubey30/ishadubey30/blob/output/github-contribution-grid-snake.svg" />
 
 ###
 
