@@ -3,7 +3,6 @@
   <img height="150" src="https://pbs.twimg.com/profile_banners/1466432290507132929/1638460774/1500x500"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/isha-dubey-7935261b7/" target="_blank">
